@@ -16,7 +16,7 @@ If you are unable to drag and drop VirusBarrier X9 into the window as illustrate
 
 4. Add the Application to the access list:
 
-   ![Navigate to Application folder](https://support.intego.com/hc/article_attachments/4406219677203/FDA-1.png)
+   ![Navigate to Application folder](https://github.com/EricD2017/Enable-Full-Disk-Access-in-macOS/blob/main/Add_Quit_Now?raw=true)
 
    - 1. Click the "+" icon
    - 2. In the window that pops up, find the corresponding software in the /Application/ folder.
